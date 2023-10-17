@@ -2,5 +2,5 @@ def main():
     print('Hi from robu.')
 
 
-if __name__ == '__main__':r
+if __name__ == '__main__':
     main()
